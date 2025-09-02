@@ -1,0 +1,145 @@
+{
+  "ui": {
+    "title": "Leaf Disease Detection",
+    "uploadButton": "Upload Image",
+    "captureButton": "Capture Image",
+    "analyzeButton": "Analyze",
+    "resultTitle": "Analysis Result",
+    "healthyResult": "Healthy",
+    "diseaseDetected": "Disease Detected",
+    "precautionsTitle": "Recommended Precautions",
+    "chatbotTitle": "Ask Agricultural Expert",
+    "chatbotPlaceholder": "Ask about leaf diseases, remedies, or prevention...",
+    "sendButton": "Send",
+    "languageToggle": "हिंदी",
+    "loading": "Processing..."
+  },
+  "diseases": {
+    "apple_scab": {
+      "name": "Apple Scab",
+      "precautions": [
+        "Remove and destroy fallen leaves to reduce fungal spores",
+        "Apply fungicides early in the growing season",
+        "Ensure proper spacing between trees for good air circulation",
+        "Choose resistant apple varieties for new plantings"
+      ]
+    },
+    "black_rot": {
+      "name": "Black Rot",
+      "precautions": [
+        "Prune out dead or diseased wood",
+        "Remove mummified fruits from trees",
+        "Apply fungicides during the growing season",
+        "Maintain good sanitation in the orchard"
+      ]
+    },
+    "cedar_apple_rust": {
+      "name": "Cedar Apple Rust",
+      "precautions": [
+        "Remove nearby cedar trees if possible",
+        "Apply protective fungicides in spring",
+        "Choose resistant apple varieties",
+        "Maintain good air circulation around trees"
+      ]
+    },
+    "healthy": {
+      "name": "Healthy",
+      "precautions": [
+        "Continue regular monitoring for early disease detection",
+        "Maintain proper watering and fertilization",
+        "Prune regularly for good air circulation",
+        "Practice crop rotation and good sanitation"
+      ]
+    },
+    "powdery_mildew": {
+      "name": "Powdery Mildew",
+      "precautions": [
+        "Improve air circulation around plants",
+        "Apply fungicides at first sign of disease",
+        "Avoid overhead watering",
+        "Remove and destroy infected plant parts"
+      ]
+    },
+    "early_blight": {
+      "name": "Early Blight",
+      "precautions": [
+        "Remove lower infected leaves",
+        "Use mulch to prevent soil-splash",
+        "Apply appropriate fungicides",
+        "Rotate crops and practice good sanitation"
+      ]
+    },
+    "late_blight": {
+      "name": "Late Blight",
+      "precautions": [
+        "Remove and destroy infected plants immediately",
+        "Apply preventative fungicides before disease appears",
+        "Avoid overhead irrigation",
+        "Plant resistant varieties when available"
+      ]
+    },
+    "bacterial_spot": {
+      "name": "Bacterial Spot",
+      "precautions": [
+        "Use copper-based bactericides early in the season",
+        "Avoid overhead irrigation",
+        "Practice crop rotation",
+        "Remove and destroy infected plant debris"
+      ]
+    },
+    "leaf_mold": {
+      "name": "Leaf Mold",
+      "precautions": [
+        "Improve air circulation around plants",
+        "Reduce humidity in greenhouses",
+        "Apply appropriate fungicides",
+        "Remove and destroy infected leaves"
+      ]
+    },
+    "septoria_leaf_spot": {
+      "name": "Septoria Leaf Spot",
+      "precautions": [
+        "Remove infected leaves immediately",
+        "Apply fungicides at first sign of disease",
+        "Use mulch to prevent soil splash",
+        "Ensure adequate spacing between plants"
+      ]
+    },
+    "spider_mites": {
+      "name": "Spider Mites",
+      "precautions": [
+        "Spray plants with strong water stream to dislodge mites",
+        "Apply insecticidal soap or horticultural oil",
+        "Introduce predatory mites as biological control",
+        "Increase humidity around plants"
+      ]
+    },
+    "target_spot": {
+      "name": "Target Spot",
+      "precautions": [
+        "Remove and destroy infected leaves",
+        "Apply appropriate fungicides",
+        "Ensure good air circulation",
+        "Avoid overhead irrigation"
+      ]
+    },
+    "yellow_leaf_curl_virus": {
+      "name": "Yellow Leaf Curl Virus",
+      "precautions": [
+        "Control whitefly populations with appropriate insecticides",
+        "Use reflective mulches to repel whiteflies",
+        "Remove and destroy infected plants",
+        "Plant resistant varieties when available"
+      ]
+    },
+    "mosaic_virus": {
+      "name": "Mosaic Virus",
+      "precautions": [
+        "Remove and destroy infected plants immediately",
+        "Control aphid populations",
+        "Wash hands and tools after handling infected plants",
+        "Plant resistant varieties when available"
+      ]
+    }
+  }
+}

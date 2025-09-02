@@ -1,0 +1,10 @@
+flask==2.0.1
+flask-cors==3.0.10
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.19.5
+Pillow>=8.3.1
+opencv-python>=4.5.3.56
+tqdm>=4.62.3
+python-dotenv>=0.19.0
+requests>=2.25.1
