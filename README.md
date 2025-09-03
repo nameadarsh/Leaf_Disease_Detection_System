@@ -76,7 +76,7 @@ npm --version
 3. **Verify API Key Configuration:**
    - The `.env` file should be in the backend folder
    - Supported API providers:
-     - **Groq API**: Keys starting with `gsk_` or `gsk-` ✅ (Current key)
+     - **Groq API**: Keys starting with `gsk_` or `gsk-` 
      - **OpenAI API**: Keys starting with `sk-`
 
 4. **Start the Backend Server:**
