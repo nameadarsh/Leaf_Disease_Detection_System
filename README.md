@@ -74,10 +74,9 @@ npm --version
    ```
 
 3. **Verify API Key Configuration:**
-   - The `.env` file is already present in the backend directory
-   - Your API key should be set as: `CHATBOT_API_KEY=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`
+   - The `.env` file should be in the backend folder
    - Supported API providers:
-     - **Groq API**: Keys starting with `gsk_` or `gsk-` ✅ (Your current key)
+     - **Groq API**: Keys starting with `gsk_` or `gsk-` ✅ (Current key)
      - **OpenAI API**: Keys starting with `sk-`
 
 4. **Start the Backend Server:**
